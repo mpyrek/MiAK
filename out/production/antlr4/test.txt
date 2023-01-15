@@ -1,0 +1,4 @@
+{
+    "name":"Nikodem",
+    "arr_simple": ["1",2, 31]
+}
