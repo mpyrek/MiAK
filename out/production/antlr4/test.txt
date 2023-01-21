@@ -1,0 +1,6 @@
+{
+    "name":"Nikodem",
+    "age": 12,
+    "best_colors": ["red", "green", "blue"],
+    "best_numbers": [1,2,3,4]
+}
