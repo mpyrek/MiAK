@@ -1,4 +1,6 @@
 {
     "name":"Nikodem",
-    "arr_simple": ["1",2, 31]
+    "age": 12,
+    "best_colors": ["red", "green", "blue"],
+    "best_numbers": [1,2,3,4]
 }

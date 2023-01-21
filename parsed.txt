@@ -1,0 +1,4 @@
+string name = "Nikodem";
+int age = 12;
+int best_colors = ["red", "green", "blue"];
+int best_numbers = [1, 2, 3, 4];

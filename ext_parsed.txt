@@ -1,0 +1,5 @@
+string title = "animals";
+int animals = ["lion", "cat", "dog", "cow", "monkey", "bird", "pig"];
+int animals_age = [2, 7, 4, 12, 0.5, 1, 3];
+int child = [1, 0, 1, 1, 1, 0, 0];
+int friendly = 1;
